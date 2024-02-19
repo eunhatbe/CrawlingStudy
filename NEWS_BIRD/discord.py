@@ -3,7 +3,7 @@ import asyncio
 import discord
 from discord.ext import commands
 
-TOKEN = "MTIwODg1NjcyOTEyMzgxOTYyMA.GW0AeT.rmHIUPd756t3hBGDiOVUjDu9FYElAqFwTVc5EA"
+TOKEN = """please input your TOKEN"""
 
 
 class NewsBot:
